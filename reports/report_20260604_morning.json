@@ -1,0 +1,164 @@
+{
+  "title": "[모닝] 2026-06-04 주식 브리핑",
+  "date": "2026-06-04T08:00:00",
+  "type": "morning",
+  "summary": "미 증시 하락 속 국내 시장 준비중. 현대모비스·AI 인프라·방산 테마 주목.",
+  "marketSummary": "전일 미국 증시는 다우 -1.21%, 나스닥 -0.89% 하락 마감했다. 원달러 환율은 1,519원으로 소폭 상승(+0.4%)했다. 국내 KOSPI(8,801)·KOSDAQ(1,026)는 장 시작 전 준비중 상태다. 젠슨 황 방한 기대감으로 AI·반도체 테마에 관심이 집중되고 있으며, 현대모비스·방산·바이오주도 컨센서스 상향이 이어지고 있다.",
+  "market": {
+    "kospi": {
+      "value": "8,801.49",
+      "change": 0,
+      "pct": 0
+    },
+    "kosdaq": {
+      "value": "1,026.03",
+      "change": 0,
+      "pct": 0
+    },
+    "dow": {
+      "value": "50,687.07",
+      "change": -620.72,
+      "pct": -1.21
+    },
+    "nasdaq": {
+      "value": "26,853.98",
+      "change": -239.92,
+      "pct": -0.89
+    },
+    "usd": {
+      "value": "1,519",
+      "change": 6.1,
+      "pct": 0.4
+    }
+  },
+  "holdings": [
+    {
+      "name": "카카오",
+      "code": "035720",
+      "currentPrice": 42550,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 74000,
+      "opinion": "매수",
+      "comment": "두나무 지분 매각 2.2조 확보, AI 사업 재편 가속 / 노사 갈등 변수"
+    },
+    {
+      "name": "카카오뱅크",
+      "code": "323410",
+      "currentPrice": 22000,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 28000,
+      "opinion": "보유",
+      "comment": "52주 고가 38,750 대비 저평가 구간"
+    },
+    {
+      "name": "현대모비스",
+      "code": "012330",
+      "currentPrice": 759000,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 900000,
+      "opinion": "매수",
+      "comment": "메리츠·KB 목표가 상향, 액추에이터 사업 2035년 영업익 14조 전망"
+    },
+    {
+      "name": "삼성전자",
+      "code": "005930",
+      "currentPrice": 360500,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 400000,
+      "opinion": "매수",
+      "comment": "52주 고가 370,000 근접, AI 반도체 수요 회복 기대"
+    },
+    {
+      "name": "엘앤에프",
+      "code": "066970",
+      "currentPrice": 150000,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 250000,
+      "opinion": "매수",
+      "comment": "ESS 배터리 수요 확대, AI 인프라 수혜 기대"
+    },
+    {
+      "name": "천보",
+      "code": "278280",
+      "currentPrice": 44450,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 50000,
+      "opinion": "보유",
+      "comment": "단기 이익 모멘텀 제한적, 목표가 하향 압력"
+    },
+    {
+      "name": "포스코홀딩스",
+      "code": "005490",
+      "currentPrice": 399000,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 470000,
+      "opinion": "매수",
+      "comment": "2차전지·철강·리튬 다각화, 52주 최저 대비 64% 회복"
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI·반도체",
+      "momentum": "강세",
+      "stocks": [
+        "NAVER",
+        "SK하이닉스",
+        "삼성전자"
+      ],
+      "reason": "젠슨 황 방한 기대감, 국내 AI CapEx 러시"
+    },
+    {
+      "name": "방산",
+      "momentum": "강세",
+      "stocks": [
+        "현대로템",
+        "한화에어로스페이스"
+      ],
+      "reason": "창원공장 수주 증가, 목표주가 TOP 상향"
+    },
+    {
+      "name": "ESS·2차전지",
+      "momentum": "회복",
+      "stocks": [
+        "엘앤에프",
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ],
+      "reason": "AI 인프라 전력 수요로 ESS 수혜, 캐즘 돌파 기대"
+    }
+  ],
+  "keyPoints": [
+    "젠슨 황 NVIDIA CEO 방한 기대감으로 AI·반도체 테마 주도 예상",
+    "현대모비스, 액추에이터 사업 가치 재평가로 목표주가 줄상향 (900,000원)",
+    "미 증시 하락·환율 상승 부담이나 국내 수출주 실적 개선 모멘텀 유효"
+  ],
+  "tags": [
+    {
+      "l": "AI반도체",
+      "s": "h"
+    },
+    {
+      "l": "방산",
+      "s": "h"
+    },
+    {
+      "l": "ESS",
+      "s": "h"
+    },
+    {
+      "l": "현대모비스",
+      "s": "h"
+    },
+    {
+      "l": "젠슨황",
+      "s": "h"
+    }
+  ]
+}
