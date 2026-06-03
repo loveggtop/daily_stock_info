@@ -1,0 +1,160 @@
+{
+  "title": "[모닝] 2026-06-03 주식 브리핑",
+  "date": "2026-06-03T08:00:00",
+  "type": "morning",
+  "summary": "오늘 한국 증시 지방선거 휴장. 전일 KOSPI 8,801 신고가 달성, 미국 AI·반도체 랠리 지속.",
+  "marketSummary": "전일(6/2) 미국 증시는 AI·반도체 주도로 S&P500이 7,609에 신고가를 기록하며 3일 연속 상승했습니다. 다우는 51,307에 0.45% 상승, 나스닥은 27,093에 0.03% 소폭 상승했습니다. 달러-원 환율은 1,527원대로 0.67% 상승(원화 약세). 국내는 오늘(6/3) 지방선거로 주식시장이 휴장하며, 다음 거래일은 6월 4일(목)입니다. 전일 KOSPI는 장중 8,900선을 돌파했다가 8,801.49에 신고가로 마감했고, KOSDAQ은 2.29% 하락 마감했습니다. Goldman Sachs는 연초 대비 100% 상승한 KOSPI의 추가 상승 여지를 언급했습니다.",
+  "market": {
+    "kospi": {
+      "value": "8,801.49",
+      "change": 13.11,
+      "pct": 0.15
+    },
+    "kosdaq": {
+      "value": "1,026.03",
+      "change": -24,
+      "pct": -2.29
+    },
+    "dow": {
+      "value": "51,307.79",
+      "change": 231,
+      "pct": 0.45
+    },
+    "nasdaq": {
+      "value": "27,093.90",
+      "change": 8,
+      "pct": 0.03
+    },
+    "usd": {
+      "value": "1,527.34",
+      "change": 10.19,
+      "pct": 0.67
+    }
+  },
+  "holdings": [
+    {
+      "name": "카카오",
+      "code": "035720",
+      "currentPrice": 42550,
+      "change": -150,
+      "changePct": -0.35,
+      "targetPrice": 69000,
+      "opinion": "매수",
+      "comment": "AI 서비스 고성장 기대, 목표가 6.9만원 유지"
+    },
+    {
+      "name": "카카오뱅크",
+      "code": "323410",
+      "currentPrice": 22350,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 30318,
+      "opinion": "매수",
+      "comment": "1Q26 실적 양호, 지속적 고객 확대 모멘텀"
+    },
+    {
+      "name": "현대모비스",
+      "code": "012330",
+      "currentPrice": 761000,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 0,
+      "opinion": "중립",
+      "comment": "자동차 관세 불확실성 지속, 단기 변동성 주의"
+    },
+    {
+      "name": "삼성전자",
+      "code": "005930",
+      "currentPrice": 357000,
+      "change": 8000,
+      "changePct": 2.29,
+      "targetPrice": 360000,
+      "opinion": "매수",
+      "comment": "AI 메모리 수요 급증, 2027년까지 공급 부족 전망"
+    },
+    {
+      "name": "엘앤에프",
+      "code": "066970",
+      "currentPrice": 155000,
+      "change": -13300,
+      "changePct": -7.91,
+      "targetPrice": 201521,
+      "opinion": "매수",
+      "comment": "2차전지 랠리 기대, 목표가 20.2만원"
+    },
+    {
+      "name": "천보",
+      "code": "278280",
+      "currentPrice": 0,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 0,
+      "opinion": "수집불가",
+      "comment": "데이터 수집불가"
+    },
+    {
+      "name": "포스코홀딩스",
+      "code": "005490",
+      "currentPrice": 443500,
+      "change": 0,
+      "changePct": 0,
+      "targetPrice": 0,
+      "opinion": "중립",
+      "comment": "철강·리튬 복합 모멘텀, 단기 데이터 수집불가"
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI·반도체",
+      "momentum": "강세",
+      "stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
+      ],
+      "reason": "AI 인프라 투자 확대, HBM 공급 부족 지속"
+    },
+    {
+      "name": "조선·중공업",
+      "momentum": "강세",
+      "stocks": [
+        "HD현대중공업",
+        "한화오션",
+        "삼성중공업"
+      ],
+      "reason": "글로벌 방산·에너지 수요 증가로 수주 랠리"
+    },
+    {
+      "name": "IT하드웨어",
+      "momentum": "보통",
+      "stocks": [
+        "삼성전기",
+        "LG이노텍"
+      ],
+      "reason": "AI서버 부품 수요 증가 수혜"
+    }
+  ],
+  "keyPoints": [
+    "⚠️ 오늘(6/3 화) 한국 주식시장 지방선거 휴장 — 다음 거래일 6월 4일(목)",
+    "KOSPI 8,801 신고가 달성, 연초 대비 +100% 수준 (Goldman Sachs 추가 상승 전망)",
+    "미국 AI·반도체 주도 연속 신고가: 나스닥 27,093 / S&P500 7,609 / 다우 51,307"
+  ],
+  "tags": [
+    {
+      "l": "모닝브리핑",
+      "s": "h"
+    },
+    {
+      "l": "KOSPI신고가",
+      "s": "h"
+    },
+    {
+      "l": "AI반도체",
+      "s": "h"
+    },
+    {
+      "l": "휴장일",
+      "s": "m"
+    }
+  ]
+}
