@@ -1,0 +1,161 @@
+{
+  "title": "[모닝] 2026-06-25 주식 브리핑",
+  "date": "2026-06-25T08:00:00",
+  "type": "morning",
+  "summary": "코스피 8,900선 급등(+5.1%), 미국 증시는 빅테크 매도세에 혼조.",
+  "marketSummary": "전일(6/24) 미국 증시는 대형 기술주 매도세로 나스닥이 약세를 보인 반면 다우는 강보합 마감했습니다. 원/달러 환율은 1,547원대로 소폭 상승했습니다. 국내 증시는 코스피가 8,900선까지 급등(+5.1%)한 반면 코스닥은 소폭 하락(-0.57%)하며 대형주 중심의 강세가 두드러졌습니다.",
+  "market": {
+    "kospi": {
+      "value": "8,903.43",
+      "change": 433,
+      "pct": 5.1
+    },
+    "kosdaq": {
+      "value": "904.15",
+      "change": -5.19,
+      "pct": -0.57
+    },
+    "dow": {
+      "value": "51,848.90",
+      "change": 182.06,
+      "pct": 0.35
+    },
+    "nasdaq": {
+      "value": "25,476.64",
+      "change": -110.4,
+      "pct": -0.43
+    },
+    "usd": {
+      "value": "1,547.20",
+      "change": 4.5,
+      "pct": 0.29
+    }
+  },
+  "holdings": [
+    {
+      "name": "카카오",
+      "code": "035720",
+      "currentPrice": 35550,
+      "change": 1550,
+      "changePct": 4.56,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "장중 강세, 목표주가/투자의견은 데이터 소스 차단으로 미수집"
+    },
+    {
+      "name": "카카오뱅크",
+      "code": "323410",
+      "currentPrice": 20850,
+      "change": 800,
+      "changePct": 3.99,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "동반 강세"
+    },
+    {
+      "name": "현대모비스",
+      "code": "012330",
+      "currentPrice": 516000,
+      "change": 7070,
+      "changePct": 1.38,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "완만한 상승"
+    },
+    {
+      "name": "삼성전자우",
+      "code": "005935",
+      "currentPrice": 233500,
+      "change": 20000,
+      "changePct": 9.37,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "장중 급등, 반도체 업황 기대감 반영 추정"
+    },
+    {
+      "name": "엘앤에프",
+      "code": "066970",
+      "currentPrice": 110600,
+      "change": -3100,
+      "changePct": -2.73,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "2차전지 약세"
+    },
+    {
+      "name": "천보",
+      "code": "278280",
+      "currentPrice": 39300,
+      "change": -1650,
+      "changePct": -4.03,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "2차전지 약세"
+    },
+    {
+      "name": "포스코홀딩스",
+      "code": "005490",
+      "currentPrice": 326500,
+      "change": -5000,
+      "changePct": -1.51,
+      "targetPrice": "수집불가",
+      "opinion": "수집불가",
+      "comment": "소폭 하락"
+    }
+  ],
+  "themes": [
+    {
+      "name": "반도체/메모리",
+      "momentum": "강세",
+      "stocks": [
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "reason": "하반기 메모리 가격이 예상보다 견조할 것이라는 한화투자증권 리포트 발표"
+    },
+    {
+      "name": "2차전지",
+      "momentum": "약세",
+      "stocks": [
+        "엘앤에프",
+        "천보"
+      ],
+      "reason": "2026년 하반기 2차전지 업황 전망 보수적, 보유종목 동반 약세"
+    },
+    {
+      "name": "AI/휴머노이드",
+      "momentum": "강세",
+      "stocks": [
+        "관련 부품주"
+      ],
+      "reason": "Agility Robotics 상장 추진 소식에 휴머노이드 IPO 기대감 부각"
+    },
+    {
+      "name": "디스플레이",
+      "momentum": "강세",
+      "stocks": [
+        "LG디스플레이"
+      ],
+      "reason": "구조조정에도 연간 조 단위 영업이익 전망 리포트로 목표주가 상향"
+    }
+  ],
+  "keyPoints": [
+    "코스피 +5.1% 급등 vs 코스닥 -0.57%, 대형주 중심 차별화 장세",
+    "미국 증시는 빅테크 매도세로 나스닥 약세, 다우는 강보합",
+    "보유종목 중 삼성전자우(+9.37%), 카카오(+4.56%) 강세, 2차전지(엘앤에프·천보)는 약세"
+  ],
+  "tags": [
+    {
+      "l": "코스피급등",
+      "s": "h"
+    },
+    {
+      "l": "반도체",
+      "s": "h"
+    },
+    {
+      "l": "2차전지약세",
+      "s": "h"
+    }
+  ]
+}
